@@ -1,8 +1,6 @@
 public class Hello {
 
-    public static void main(String[] args) {
-        System.out.println("Hello git");
-
-    }
+    // B23 IS LEARNING GIT
+    //B23 IS MAKING SOME SENSE NOW
 
 }
